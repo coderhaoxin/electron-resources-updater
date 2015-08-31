@@ -1,0 +1,30 @@
+{
+  "name": "electron-resources-updater",
+  "version": "0.1.0",
+  "description": "only update resources",
+  "main": "index.js",
+  "scripts": {
+    "pack": "node example/pack",
+    "start": "electron example/main"
+  },
+  "repository": "onebook/electron-resources-updater",
+  "keywords": [
+    "electron",
+    "resources",
+    "updater"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "author": "haoxin",
+  "license": "MIT",
+  "devDependencies": {
+    "electron-packager": "5",
+    "electron-prebuilt": "0",
+    "object-assign": "4"
+  },
+  "dependencies": {
+    "mz": "2",
+    "requisition": "1"
+  }
+}
