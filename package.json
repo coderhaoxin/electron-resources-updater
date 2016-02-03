@@ -7,7 +7,7 @@
     "pack": "node example/pack",
     "start": "electron example/main"
   },
-  "repository": "onebook/electron-resources-updater",
+  "repository": "coderhaoxin/electron-resources-updater",
   "keywords": [
     "electron",
     "resources",
